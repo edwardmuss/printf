@@ -19,7 +19,7 @@ unsigned int convert_o(va_list args, buffer_t *output,
  * @len: A length modifier.
  * @output: A buffer_t struct containing a character array.
  *
- * Return: The number of bytes stored to the buffer.
+ * Return: Number of bytes stored to the buffer.
  */
 unsigned int convert_di(va_list args, buffer_t *output,
 		unsigned char flags, int wid, int prec, unsigned char len)
