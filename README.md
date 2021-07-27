@@ -1,7 +1,7 @@
 # 0x11.C-Printf  😄
 | Authors     | Website |
 | ----------- | ----------- |
-| Winstone Ochieng     | [Winstone Ochieng](https://www.winweb)      |
+| Winstone Ochieng     | [Winstone Ochieng](https://www.winweb.cloudrebue.co.ke)      |
 | Edward Muss  | [Edward Muss](https://edwardmuss.cloudrebue.co.ke)        |
 
 
