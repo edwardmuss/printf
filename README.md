@@ -1,8 +1,15 @@
-# 0x11.C-Printf
+# 0x11.C-Printf  😄
+| Authors     | Website |
+| ----------- | ----------- |
+| Winstone Ochieng     | [Winstone Ochieng](https://www.winweb)      |
+| Edward Muss  | [Edward Muss](https://edwardmuss.cloudrebue.co.ke)        |
 
-## Author
+
+<!-- ## Author
 * [Winstone Ochieng](https://www.winweb.cloudrebue.co.ke)
-* [Edward Muss](https://edwardmuss.cloudrebue.co.ke)
+* [Edward Muss](https://edwardmuss.cloudrebue.co.ke) -->
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 # Authorized functions and macros
 
